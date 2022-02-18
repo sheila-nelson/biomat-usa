@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="<?php echo $stylesheet ?>">
              
     </head>
-    <body>
+    <body style="padding:30px">
     <?php include $partialsPath."navbar.part.php" ?> 
     <?php include $pageTemplate ?>
     <?php include $partialsPath."footer.part.php" ?> 

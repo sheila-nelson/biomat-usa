@@ -8,7 +8,7 @@ include "utils.php";
 $pageName = "admin_home";
 $pageTemplate = $pageName.".temp.php";
 $stylesheet = $assetsPath.$pageName.".css";
-$title = 'ztest5000';
+$title = 'Biomat';
 
 include $templatesPath."base.temp.php"
 ?>
